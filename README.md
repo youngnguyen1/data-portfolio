@@ -2,7 +2,7 @@
 
 This GitHub repository contains some data projects that I have worked on. The purpose of this repository is to showcase the skills and techniques I learn along the way as I go forward with my career in the professional data field.
 
-## Predicting Successful Loan Payments Using Several Machine Learning Models
+## [Predicting Successful Loan Payments Using Several Machine Learning Models](https://github.com/youngnguyen1/IBM-Data-Science-Capstone)
 
 September 2022
 
@@ -15,13 +15,14 @@ Models used:
 * Support Vector Machine
 * Logistic Regression
 
-## Web scraping GitHub Repositories
+## [Web scraping GitHub Repositories](https://github.com/youngnguyen1/web-scraping-github)
 
 August 2022
 
 This project uses the Python BeautifulSoup Library to scrape the contents of GitHub pages. I extracted key information from popular repositories from the GitHub Topics page using the html content of the page. The code also writes that information into different csv files for each repository.
 
-## \href{https://github.com/youngnguyen1/yelp-sentiment-analysis}{Sentiment Analysis on Yelp Reviews}
+## [Sentiment Analysis on Yelp Reviews](https://github.com/youngnguyen1/yelp-sentiment-analysis)
+
 
 July 2022
 
