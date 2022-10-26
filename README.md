@@ -6,7 +6,7 @@ This GitHub repository contains some data projects that I have worked on. The pu
 
 September 2022
 
-This project was part of the IBM Data Science Certificate program. I learned of many different machine learning models during this program, and was able to put several classification models to the test in this project. I was able to come up with predictions on whether or not a person would be able to pay off their loans based on historical loan information.
+This project was part of the IBM Data Science Certificate program. I learned of many different machine learning models during this program, and was able to put several classification models to the test in this project. I was able to come up with predictions on whether or not a person would be able to pay off their loans based on historical loan information. I have included my data science methodology as well as the final result of the predictions to showcase my work in exploratory data analysis, visualizations, and predictive modeling.
 
 Models used:
 
