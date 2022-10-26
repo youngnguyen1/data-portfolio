@@ -21,7 +21,7 @@ August 2022
 
 This project uses the Python BeautifulSoup Library to scrape the contents of GitHub pages. I extracted key information from popular repositories from the GitHub Topics page using the html content of the page. The code also writes that information into different csv files for each repository.
 
-## Sentiment Analysis on Yelp Reviews
+## \href{https://github.com/youngnguyen1/yelp-sentiment-analysis}{Sentiment Analysis on Yelp Reviews}
 
 July 2022
 
