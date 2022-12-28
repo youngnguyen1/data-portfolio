@@ -2,6 +2,12 @@
 
 This GitHub repository contains some data projects that I have worked on. The purpose of this repository is to showcase the skills and techniques I learn along the way as I go forward with my career in the professional data field.
 
+## [Successful Rocket Launch Prediction Model]([https://github.com/youngnguyen1/Loan-Classification-Models](https://github.com/youngnguyen1/IBM-Data-Science-Capstone)
+
+October 2022
+
+This project puts together most of what I have learned from my Data Analyst and Data Science Certificates to build a machine learning model that will predict a successful or failed SpaceX Falcon 9 Landing. Space X's Falcon 9 Rocket has a reusable first stage. Being able to reuse the first stage saves the company a lot of money as opposed to building a new one for each rocket launch. However, the success rate of their landing is not 100%. In this project, I build a machine learning model to predict whether or not the first stage will land successfully. Being able to predict this is beneficial for the company so that they understand the true cost of the rocket launch, and so they can take necessary preventative measures.
+
 ## [Predicting Successful Loan Payments Using Several Machine Learning Models](https://github.com/youngnguyen1/Loan-Classification-Models)
 
 September 2022
