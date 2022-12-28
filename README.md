@@ -2,7 +2,7 @@
 
 This GitHub repository contains some data projects that I have worked on. The purpose of this repository is to showcase the skills and techniques I learn along the way as I go forward with my career in the professional data field.
 
-## [Predicting Successful Loan Payments Using Several Machine Learning Models](https://github.com/youngnguyen1/IBM-Data-Science-Capstone)
+## [Predicting Successful Loan Payments Using Several Machine Learning Models](https://github.com/youngnguyen1/Loan-Classification-Models)
 
 September 2022
 
