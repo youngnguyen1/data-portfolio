@@ -2,7 +2,7 @@
 
 This GitHub repository contains some data projects that I have worked on. The purpose of this repository is to showcase the skills and techniques I learn along the way as I go forward with my career in the professional data field.
 
-## [Successful Rocket Launch Prediction Model]([https://github.com/youngnguyen1/Loan-Classification-Models](https://github.com/youngnguyen1/IBM-Data-Science-Capstone)
+## [Successful Rocket Launch Prediction Model](https://github.com/youngnguyen1/IBM-Data-Science-Capstone)
 
 October 2022
 
